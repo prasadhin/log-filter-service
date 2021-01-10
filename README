@@ -24,3 +24,17 @@ We have included a sample log extract and the interface you are required to impl
 We expect your submission to implement the above functionality with evidence that the features you have implemented work
 correctly. We suggest spending 1-1.5 hours on the test. Your solution will be judged on a number of criteria
 pertinent to good software development practice. Please feel free to add a README with any further comments you have.
+
+# Log Filter Service
+> Service to filter logs based on specific criteria.
+
+### Code Highlights
+* 100% code coeverage with JUnit5 Tests
+
+### Tech stack
+* JDK 11
+* Build Tool Used: Maven
+* Testing: Junit5
+
+## Application test commands
+* mvn clean test
