@@ -1,7 +1,7 @@
 # Log Filter Service
-> Service to filter logs based on differnt criterias.
+Service to filter logs based on differnt criterias.
 
-##Story
+## Story / Summary of project
 As a developer
 I need to be able to filter log extracts
  - by country
