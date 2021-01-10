@@ -1,5 +1,5 @@
 # Log Filter Service
-Service to filter logs based on differnt criterias.
+Service to filter logs based on different criteria's.
 
 ## Story / Summary of project
 As a developer
